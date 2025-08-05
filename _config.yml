@@ -1,6 +1,6 @@
 # Site Settings
 title: "Angela Gu"
-description: "Data Science @ NYU | Data Engineering | Workflow Automation | Always learning."
+description: "Always coding, always learning 💻."
 repository: "AngelaGu706/AngelaGu706.github.io"  # 改成你自己 repo 名称
 google_scholar_stats_use_cdn: false  # 你暂无 Google Scholar 可设为 false
 
@@ -14,9 +14,8 @@ baidu_site_verification:
 author:
   name: "Angela Gu"
   avatar: "images/avatar.jpg"  # 你头像图片路径（记得上传）
-  bio: "Data Science undergraduate at New York University"
+  bio: "New York University"
   location: "New York, USA"
-  employer: "New York University"
   email: "ag8984@nyu.edu"
   github: "AngelaGu706"
   linkedin: "anqi-gu-usa"
