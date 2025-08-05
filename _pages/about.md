@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I’m Angela Gu — a Data Science student at New York University (Class of 2026), passionate about data engineering, workflow automation, and backend development.
+Hi! I’m Angela Gu, a Data Science student at New York University (Class of 2026), passionate about workflow automation and backend development.
 
 This past summer, I interned at Healthfirst as a Data Engineering Intern, where I automated legacy ETL workflows using Python, REST APIs, and AWS Glue, reducing manual effort by 30%. I also built a Streamlit-based UI for validation, cutting QA time by 40%.
 
