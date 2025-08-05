@@ -17,42 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Angela Gu, a Data Science student at New York University (Class of 2026), passionate about workflow automation and backend development.
+Hi! I’m **Angela Gu**, a Data Science student at **New York University** (Class of 2026), passionate about **workflow automation**, **data engineering**, and **backend development**.
 
-This past summer, I interned at Healthfirst as a Data Engineering Intern, where I automated legacy ETL workflows using Python, REST APIs, and AWS Glue, reducing manual effort by 30%. I also built a Streamlit-based UI for validation, cutting QA time by 40%.
+This past summer, I interned at **Healthfirst** as a Data Engineering Intern, where I automated legacy ETL workflows using Python, REST APIs, and AWS Glue — reducing manual effort by 30%. I also built a Streamlit-based UI for validation, which cut QA time by 40%.
 
+Previously, I worked at **HireBeat** (AI startup) and **iQiyi** (China's leading streaming platform), focusing on AI-driven automation and BI analytics.
+
+Outside of tech, I enjoy fitness, video editing, and exploring Chinese cuisine.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.08*: Wrapped up my summer internship at Healthfirst! Excited to apply these skills in future data engineering roles.
+- *2025.07*: Selected for interview with a research program focused on data and AI applications.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.06 – 2025.08*, **Healthfirst**, Data Engineering Intern, New York, NY  
+  - Built automated ETL workflows using Python, AWS Glue, S3  
+  - Created a Streamlit UI for validation, improving QA speed by 40%
+
+- *2024.09 – 2024.10*, **HireBeat**, Data Analyst Intern, Remote  
+  - Improved chatbot performance by 30% using AI RAG pipeline  
+  - Automated internal tools, increasing efficiency by 25%
+
+- *2024.05 – 2024.07*, **iQiyi**, BI & Ops Intern, Beijing, China  
+  - Led A/B tests and KPI analysis, contributing to 15% revenue growth  
+  - Analyzed market data to support pricing strategy and user retention
+
+# 📖 Education
+- **New York University**, B.A. in Data Science | GPA: 3.7  
+  *Expected Graduation*: May 2026  
+  *Dean’s List*: 2023, 2024  
+  *Relevant Coursework*: SQL & Databases, Data Analysis, Statistics, Linear Algebra
+
+# 🏆 Honors and Awards
+- *2024.05*, Dean’s List, New York University  
+- *2024.01*, Selected Project Lead, Data Analytics VIP x GCP Cloud Project
+
+# 💬 Invited Talks
+- *2025.07*, Intern Speaker, Healthfirst Intern Speaker Series (topic: workflow automation)  
+- *2024.10*, Panelist, NYU Tandon CSSA ITCD Coffee Chat on Big Tech Careers
+
+# 🔗 Links
+- [LinkedIn](https://linkedin.com/in/anqi-gu-usa)  
+- [GitHub](https://github.com/AngelaGu706)  
+- Email: ag8984@nyu.edu
