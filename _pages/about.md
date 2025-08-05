@@ -24,7 +24,7 @@ This past summer, I interned at **Healthfirst** as a Data Engineering Intern, wh
 Previously, I worked at **HireBeat** (AI startup) and **iQiyi** (China's leading streaming platform), focusing on AI-driven automation and BI analytics.
 
 # 🔥 News
-- *2025.08*: Wrapped up my summer internship at Healthfirst! Excited to apply these skills in future data engineering roles.
+- *2025.08*: Wrapped up my summer internship at Healthfirst! Excited to apply these skills in future engineering roles.
 - *2025.07*: Selected for interviews with a research program focused on data and AI applications.
 
 # 💻 Internships
