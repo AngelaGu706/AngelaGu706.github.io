@@ -54,7 +54,7 @@ Outside of tech, I enjoy fitness, video editing, and exploring Chinese cuisine.
 
 # 💬 Invited Talks
 - *2025.07*, Intern Speaker, Healthfirst Intern Speaker Series (topic: workflow automation)  
-- *2024.10*, Panelist, NYU Tandon CSSA ITCD Coffee Chat on Big Tech Careers
+- *2024.10*, Panelist, NYU CSSA ITCD Coffee Chat on Big Tech Careers
 
 # 🔗 Links
 - [LinkedIn](https://linkedin.com/in/anqi-gu-usa)  
